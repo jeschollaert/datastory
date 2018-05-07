@@ -13,5 +13,5 @@ I gathered two data sets in an attempt to track the reaction time of the outrage
 
 A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/dh.csv)
 
-![chart](https://github.com/umd-mith/datastory/raw/master/WHCD_language.png)
+![chart](https://github.com/umd-mith/datastory/raw/master/images/WHCD_language.png)
 
