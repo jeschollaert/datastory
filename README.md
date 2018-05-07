@@ -11,7 +11,7 @@ I gathered two data sets in an attempt to track the reaction time of the outrage
 
 ## Examples of Links
 
-A link to my [data](https://github.com/umd-mith/datastory/raw/master/data/dh.csv)
+A link to my [data](https://github.com/jeschollaert/datastory/raw/master/data/dh.csv)
 
-![chart](https://github.com/umd-mith/datastory/raw/master/images/WHCD_language.png)
+![chart](https://github.com/jeschollaert/datastory/raw/master/images/WHCD_language.png)
 
