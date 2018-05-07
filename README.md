@@ -13,9 +13,11 @@ The data set poses questions about user languages, verified accounts, and the hi
 
 ![chart](https://github.com/jeschollaert/datastory/raw/master/images/und_example.png) 
 
-*words 
+It's unclear how Twitter determines that an account is using an "und" or unidentified language, and this practice may be, to invoke Safiya Noble's work in **Algorithms of Oppression**, technologically redlining some accounts that do not use standard or easily identifiable registers of language. In terms of verified accounts, the data set notes that only 21 accounts, or .6%, of the tweets came from verified accounts. Continuing to explore Lizz Winstead's tweet, the original tweet itself is not a part of the data set, but the six retweets are included in the set. None of the six users who retweeted Lizz Winstead are listed as verified, despite the fact that the original tweet came from a verified source. How does this change the way we examine information, ideas, or phrases that circulate? Does the fact that the tweet came from a verified source change the way it is read as part of a tweet by an unverified user? What work has been done about the potential to weaponized the verification tool to further technologically redline individuals from marginalized communities?  
 
 ![chart](https://github.com/jeschollaert/datastory/raw/master/images/WHCD_verified.png)
+
+*words
 
 ![image](https://github.com/jeschollaert/datastory/raw/master/images/MHaberman_tweet.png)
 
